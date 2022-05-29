@@ -13,3 +13,4 @@ for (vector1[indice]; indice < 6; indice++) {
     vectorSuma[indice]
   );
 }
+//Esta bien tu solucion
